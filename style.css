@@ -46,3 +46,12 @@ ul {
 .imagembeneficios {
 	width: 50%;
 }
+/* css da página inicial */
+.banner {
+    widt:100%;
+}
+.titulo ptincipal{
+     text-aling: center;
+	font-size: 2em;
+
+}
